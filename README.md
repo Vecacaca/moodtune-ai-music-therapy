@@ -36,6 +36,10 @@ through emotion-aware music recommendation and audio feature analysis.
 - Integrated music search and recommendation functions using Spotify API
 - Conducted functional testing and prepared project documentation
 
+## Application Preview
+
+![MoodTune Home](screenshots/home.png)
+
 ## Project Files
 
 - `app.py`: Selected Python source code
